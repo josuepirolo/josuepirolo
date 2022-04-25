@@ -30,6 +30,4 @@ I've been working for the last 10 Years with IT, starting in IT Infrastructure a
 
 ### Badges
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
